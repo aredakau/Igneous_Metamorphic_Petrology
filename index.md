@@ -15,3 +15,4 @@ Jeddah, Saudi Arabia
 This course will cover the following topics:  
 
 - [Introduction](Lectures/lecture_1.html)
+- [The Rock Cycle](Lectures/lecture_2.html)
