@@ -17,3 +17,4 @@ This course will cover the following topics:
 - [Introduction](Lectures/lecture_1.html)
 - [The Rock Cycle](Lectures/lecture_2.html)
 - [Plate Tectonics and Magma Generation](Lectures/lecture_3.html)
+- [Chemical and Physical Properties of Magma](Lectures/lecture_4.html)
