@@ -20,3 +20,4 @@ This course will cover the following topics:
 - [Chemical and Physical Properties of Magma](Lectures/lecture_4.html)
 - [Magma Evolution](Lectures/lecture_6.html)
 - [Bowen’s Reaction Series](Lectures/lecture_5.html)
+- [Mineralogical Composition of Igneous Rocks](Lectures/lecture_7.html)
