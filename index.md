@@ -21,3 +21,5 @@ This course will cover the following topics:
 - [Magma Evolution](Lectures/lecture_6.html)
 - [Bowen’s Reaction Series](Lectures/lecture_5.html)
 - [Mineralogical Composition of Igneous Rocks](Lectures/lecture_7.html)
+- [Textures of Igneous Rocks](Lectures/lecture_8.html)
+- [Field Relations: Forms and Shape of Igneous Rocks](Lectures/lecture_9.html)
