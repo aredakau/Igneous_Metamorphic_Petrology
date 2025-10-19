@@ -24,3 +24,4 @@ This course will cover the following topics:
 - [Textures of Igneous Rocks](Lectures/lecture_8.html)
 - [Field Relations: Forms and Shape of Igneous Rocks](Lectures/lecture_9.html)
 - [Classification of Igneous Rocks](Lectures/lecture_10.html)
+- [Mechanisms of Explosive Eruption and Fragmentation](Lectures/lecture_23.html)
