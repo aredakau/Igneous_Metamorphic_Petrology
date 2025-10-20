@@ -27,3 +27,4 @@ This course will cover the following topics:
 - [Magma Series: Tholeiitic, Calc-Alkaline, and Alkaline](Lectures/lecture_25.html)
 - [Mechanisms of Explosive Eruption and Fragmentation](Lectures/lecture_23.html)
 - [Pyroclastic Material Types and Terminology](Lectures/lecture_24.html)
+- [Classification of Pyroclastic Rocks](Lectures/lecture_26.html)
