@@ -26,6 +26,7 @@ This course will cover the following topics:
 - [Classification of Igneous Rocks](Lectures/lecture_10.html)
 - [Magma Series: Tholeiitic, Calc-Alkaline, and Alkaline](Lectures/lecture_25.html)
 - [Ultramafic and Mafic Rocks](Lectures/lecture_27.html)
+- [Intermediate and Felsic Igneous Rocks](Lectures/lecture_28.html)
 - [Mechanisms of Explosive Eruption and Fragmentation](Lectures/lecture_23.html)
 - [Pyroclastic Material Types and Terminology](Lectures/lecture_24.html)
 - [Classification of Pyroclastic Rocks](Lectures/lecture_26.html)
