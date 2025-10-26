@@ -30,3 +30,4 @@ This course will cover the following topics:
 - [Mechanisms of Explosive Eruption and Fragmentation](Lectures/lecture_23.html)
 - [Pyroclastic Material Types and Terminology](Lectures/lecture_24.html)
 - [Classification of Pyroclastic Rocks](Lectures/lecture_26.html)
+- [Silicate–Melt Equilibria and the Phase Rule](Lectures/lecture_29.html)
