@@ -38,3 +38,4 @@ This course will cover the following topics:
 - [Metamorphic Facies](Lectures/lecture_15.html)
 - [Introduction to Thermodynamics](Lectures/lecture_21.html)
 - [Types of Metamorphic Reactions](Lectures/lecture_30.html)
+- [Phase Rule and Chemographic Diagrams](Lectures/lecture_31.html)
