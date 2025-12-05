@@ -40,3 +40,4 @@ This course will cover the following topics:
 - [Types of Metamorphic Reactions](Lectures/lecture_30.html)
 - [Phase Rule and Chemographic Diagrams](Lectures/lecture_31.html)
 - [Geothermobarometry and P–T–t Paths](Lectures/lecture_32.html)
+- [Mineral Systems & Ore Deposits in Igneous and Metamorphic rocks](Lectures/lecture_33.html)
